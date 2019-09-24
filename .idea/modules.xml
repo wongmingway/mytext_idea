@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyBatisGenerator.iml" filepath="$PROJECT_DIR$/MyBatisGenerator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git_demo/git_demo.iml" filepath="$PROJECT_DIR$/git_demo/git_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello_kitty/hello_kitty.iml" filepath="$PROJECT_DIR$/hello_kitty/hello_kitty.iml" />
+    </modules>
+  </component>
+</project>
